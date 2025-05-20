@@ -1,8 +1,32 @@
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+.video {
+    margin-bottom: 40px;
+}
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
 }
